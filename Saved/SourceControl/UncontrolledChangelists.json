@@ -1,0 +1,46 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Unreal_Project/SpartaProject/Content/Blueprints/BP_SpartaGameMode.uasset",
+				"C:/Unreal_Project/SpartaProject/Content/Blueprints/BP_SpartaCharacter.uasset",
+				"C:/Unreal_Project/SpartaProject/Content/Input/IA_Look.uasset",
+				"C:/Unreal_Project/SpartaProject/Content/Input/IA_Move.uasset",
+				"C:/Unreal_Project/SpartaProject/Content/Input/IA_Sprint.uasset",
+				"C:/Unreal_Project/SpartaProject/Content/Input/IA_Jump.uasset",
+				"C:/Unreal_Project/SpartaProject/Content/Input/IMC_Character.uasset",
+				"C:/Unreal_Project/SpartaProject/Content/Blueprints/BP_SpartaPlayerController.uasset",
+				"C:/Unreal_Project/SpartaProject/Content/Blueprints/ABP_Player.uasset",
+				"C:/Unreal_Project/SpartaProject/Content/Resources/Characters/Animations/Manny/MM_Idle.uasset",
+				"C:/Unreal_Project/SpartaProject/Content/Resources/Characters/Animations/Manny/BS_MM_WalkRun.uasset",
+				"C:/Unreal_Project/SpartaProject/Content/Blueprints/BP_BigCoinItem.uasset",
+				"C:/Unreal_Project/SpartaProject/Content/Blueprints/BP_SmallCoinItem.uasset",
+				"C:/Unreal_Project/SpartaProject/Content/Blueprints/BP_MineItem.uasset",
+				"C:/Unreal_Project/SpartaProject/Content/Blueprints/BP_HealingItem.uasset",
+				"C:/Unreal_Project/SpartaProject/Content/Maps/AdvancedLevel.umap",
+				"C:/Unreal_Project/SpartaProject/Content/Maps/BasicLevel.umap",
+				"C:/Unreal_Project/SpartaProject/Content/Maps/IntermediateLevel.umap",
+				"C:/Unreal_Project/SpartaProject/Content/Blueprints/BP_SpawnVolume.uasset",
+				"C:/Unreal_Project/SpartaProject/Content/DataTables/AdvancedLevelSpawnTable.uasset",
+				"C:/Unreal_Project/SpartaProject/Content/DataTables/BasicLevelSpawnTable.uasset",
+				"C:/Unreal_Project/SpartaProject/Content/DataTables/InterMediateLevelSpawnTable.uasset",
+				"C:/Unreal_Project/SpartaProject/Content/Blueprints/BP_SpartaGameState.uasset",
+				"C:/Unreal_Project/SpartaProject/Content/Blueprints/BP_SpartaGameInstance.uasset",
+				"C:/Unreal_Project/SpartaProject/Content/UI/WBP_HUD.uasset",
+				"C:/Unreal_Project/SpartaProject/Content/UI/WBP_MainMenu.uasset",
+				"C:/Unreal_Project/SpartaProject/Content/Maps/MenuLevel.umap",
+				"C:/Unreal_Project/SpartaProject/Content/Blueprints/ItemSpawnTable.uasset",
+				"C:/Unreal_Project/SpartaProject/Content/DataTables/ItemSpawnTable.uasset",
+				"C:/Unreal_Project/SpartaProject/Content/Maps/MainLevel.umap",
+				"C:/Unreal_Project/SpartaProject/Content/Resources/Maps/IntermediateLevel.umap",
+				"C:/Unreal_Project/SpartaProject/Content/Resources/Maps/BasicLevel.umap",
+				"C:/Unreal_Project/SpartaProject/Content/Resources/Maps/AdvancedLevel.umap",
+				"C:/Unreal_Project/SpartaProject/Content/Maps/NewWorld.umap",
+				"C:/Unreal_Project/SpartaProject/Content/BP_Item.uasset"
+			]
+		}
+	]
+}

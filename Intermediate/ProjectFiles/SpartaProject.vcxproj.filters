@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\SpartaProject.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\SpartaProject.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\SpartaProjectEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\.vsconfig" />
+    <Filter Include="Config">
+      <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\SpartaProject">
+      <UniqueIdentifier>{975289DE-AA7C-3F12-A58F-4E4DFA15583C}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\SpartaProject\BaseItem.cpp">
+      <Filter>Source\SpartaProject</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\SpartaProject\BaseItem.h">
+      <Filter>Source\SpartaProject</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\SpartaProject\BigCoinItem.cpp">
+      <Filter>Source\SpartaProject</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\SpartaProject\BigCoinItem.h">
+      <Filter>Source\SpartaProject</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\SpartaProject\CoinItem.cpp">
+      <Filter>Source\SpartaProject</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\SpartaProject\CoinItem.h">
+      <Filter>Source\SpartaProject</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\SpartaProject\HealingItem.cpp">
+      <Filter>Source\SpartaProject</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\SpartaProject\HealingItem.h">
+      <Filter>Source\SpartaProject</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\SpartaProject\ItemInterface.cpp">
+      <Filter>Source\SpartaProject</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\SpartaProject\ItemInterface.h">
+      <Filter>Source\SpartaProject</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\SpartaProject\ItemSpawnRow.cpp">
+      <Filter>Source\SpartaProject</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\SpartaProject\ItemSpawnRow.h">
+      <Filter>Source\SpartaProject</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\SpartaProject\MineItem.cpp">
+      <Filter>Source\SpartaProject</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\SpartaProject\MineItem.h">
+      <Filter>Source\SpartaProject</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\SpartaProject\SmallCoinItem.cpp">
+      <Filter>Source\SpartaProject</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\SpartaProject\SmallCoinItem.h">
+      <Filter>Source\SpartaProject</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\SpartaProject\SpartaCharacter.cpp">
+      <Filter>Source\SpartaProject</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\SpartaProject\SpartaCharacter.h">
+      <Filter>Source\SpartaProject</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\SpartaProject\SpartaGameInstance.cpp">
+      <Filter>Source\SpartaProject</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\SpartaProject\SpartaGameInstance.h">
+      <Filter>Source\SpartaProject</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\SpartaProject\SpartaGameMode.cpp">
+      <Filter>Source\SpartaProject</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\SpartaProject\SpartaGameMode.h">
+      <Filter>Source\SpartaProject</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\SpartaProject\SpartaGameState.cpp">
+      <Filter>Source\SpartaProject</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\SpartaProject\SpartaGameState.h">
+      <Filter>Source\SpartaProject</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\SpartaProject\SpartaPlayerController.cpp">
+      <Filter>Source\SpartaProject</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\SpartaProject\SpartaPlayerController.h">
+      <Filter>Source\SpartaProject</Filter>
+    </ClCompile>
+    <None Include="..\..\Source\SpartaProject\SpartaProject.Build.cs">
+      <Filter>Source\SpartaProject</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\SpartaProject\SpartaProject.cpp">
+      <Filter>Source\SpartaProject</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\SpartaProject\SpartaProject.h">
+      <Filter>Source\SpartaProject</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\SpartaProject\SpawnVolume.cpp">
+      <Filter>Source\SpartaProject</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\SpartaProject\SpawnVolume.h">
+      <Filter>Source\SpartaProject</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,21 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\unreal_project\\spartaproject\\source\\spartaproject\\bigcoinitem.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\unreal_project\\spartaproject\\intermediate\\build\\win64\\x64\\spartaprojecteditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\unreal_project\\spartaproject\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\spartaproject\\definitions.spartaproject.h",
+            "c:\\unreal_project\\spartaproject\\source\\spartaproject\\bigcoinitem.h",
+            "c:\\unreal_project\\spartaproject\\source\\spartaproject\\coinitem.h",
+            "c:\\unreal_project\\spartaproject\\source\\spartaproject\\baseitem.h",
+            "c:\\unreal_project\\spartaproject\\source\\spartaproject\\iteminterface.h",
+            "c:\\unreal_project\\spartaproject\\intermediate\\build\\win64\\unrealeditor\\inc\\spartaproject\\uht\\iteminterface.generated.h",
+            "c:\\unreal_project\\spartaproject\\intermediate\\build\\win64\\unrealeditor\\inc\\spartaproject\\uht\\baseitem.generated.h",
+            "c:\\unreal_project\\spartaproject\\intermediate\\build\\win64\\unrealeditor\\inc\\spartaproject\\uht\\coinitem.generated.h",
+            "c:\\unreal_project\\spartaproject\\intermediate\\build\\win64\\unrealeditor\\inc\\spartaproject\\uht\\bigcoinitem.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
